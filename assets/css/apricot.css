@@ -993,6 +993,13 @@ section,
   height: 100%;
 }
 
+.services .product-item1 {
+  background-image: url("../img/gallery/hh3.jpg");
+  background-size: cover;
+  background-color: rgba(230, 255, 230, 0.6); /* White with 50% opacity */
+  background-blend-mode: lighten;
+}
+
 .services .service-item .icon {
   margin: 0 auto;
   width: 64px;
